@@ -1,1 +1,1 @@
-# learnSielomTasksMassives
+# learnSielomTasksMassivesMethods
